@@ -1,0 +1,41 @@
+.H {
+    text-align: center;
+    color:white;
+    background-image: url(https://hub.scpslgame.com/images/thumb/3/31/SZ_Gate_A_Road.jpg/300px-SZ_Gate_A_Road.jpg);
+    height: 150px;
+    font-size: 50px;
+}
+
+.info {
+    font-size: 25px;
+}
+
+.ceter {
+    color: red;
+}
+
+.euclid {
+    color: yellow;
+}
+
+.info-sequrity {
+    font-size: 25px;
+}
+
+.info-sciens {
+    font-size: 25px;
+}
+
+.B {
+    width: 50px;
+    height: 50px;
+}
+
+.C {
+    width: 50px;
+    height: 50px;
+}
+
+main {
+    background: #999;
+}
